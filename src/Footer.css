@@ -1,0 +1,16 @@
+.footer{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    bottom:0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    background-color: rgba(12, 12, 12, 0.082);
+    font-size: 14px;
+  }
+.fa-github,.fa-envelope,.fa-instagram,.fa-facebook,.fa-linkedin,.fa-twitter,.fa-glove{
+    color: rgb(0, 0, 0);
+    margin: 0.5em;
+    margin-top: 2em;
+    text-decoration: none;
+    }
